@@ -24,5 +24,10 @@ fields:
   label: layout
   hidden: true
   default: post
+- type: text
+  name: roles_name
+  label: Roles name
+  config:
+    required: true
 pages:
 - _roles/role-1.md
