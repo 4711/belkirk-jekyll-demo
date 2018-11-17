@@ -13,4 +13,4 @@ It's a hug, Michael. I'm hugging you. As you may or may not know, Lindsay and I 
 
 1. He'll want to use your yacht, and I don't want this thing smelling like fish.
 2. Really? Did nothing cancel?
-3. I hear the jury's still out on science.
+3. I hear the jury's still out on _science_.
